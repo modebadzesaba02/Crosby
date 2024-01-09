@@ -1,0 +1,29 @@
+
+{
+    "plants": [
+      {
+        "name": "Lily",
+        "id": 1,
+        "price" :20,
+        "src":"/plant_images/plant_a.jpg"
+      },
+      {
+        "name": "Pencil Plant",
+        "id": 2,
+        "price" :12,
+        "src":"/plant_images/plant_b.jpg"
+      },
+      {
+        "name": "Alocasia",
+        "id": 3,
+        "price" :15,
+        "src":"/plant_images/plant_c.jpg"
+      },{
+        "name": "Snake",
+        "id": 4,
+        "price" :12,
+        "src":"/plant_images/plant_d.jpg"
+      }
+      
+    ]
+  }
